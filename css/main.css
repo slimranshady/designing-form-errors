@@ -11,11 +11,6 @@ html {
   border-color: #f33;
 }
 
-input:invalid,
-input[type="checkbox"]:invalid + label::before {
-  border-color: #f33;
-}
-
 .error-message {
   display: none;
   background-color: #fee;
